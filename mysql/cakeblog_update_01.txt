@@ -1,0 +1,1 @@
+UPDATE updater SET text='aaaaa' WHERE id=1;

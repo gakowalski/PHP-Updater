@@ -1,0 +1,1 @@
+UPDATE updater SET text='bbbb' WHERE id=1;
