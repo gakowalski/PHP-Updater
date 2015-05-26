@@ -5,6 +5,7 @@ $zip_name = 'master.zip'; //ZIP FILENAME
 $src_dir = 'CakeBlog-master'; //SOURCE DIRECTORY (the name of the root folder in the zip)
 $dest_dir = '../php_updater/destination_directory'; //DESTINATION DIRECTORY
 $mysql_dir = ''.$dest_dir.'mysql/'; //DESTINATION TO MYSQL UPDATE FILES
+$mysql_order = 0; //CHANGE TO 1 TO REVERSE ORDER
 
 //MYSQL
 $servername = "localhost";
